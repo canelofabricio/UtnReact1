@@ -1,0 +1,46 @@
+body{
+    background: aquamarine;
+}
+#box1{
+    background-color: #FF0000;
+    width: 20%;
+    height: 15rem;
+    margin-top: 5%;
+}
+#box2{
+    background-color: #FF0033;
+    width: 20%;
+    height: 15rem;
+    margin-top: 5%;
+}
+#box3{
+    background-color: #FF0066;
+    width: 20%;
+    height: 15rem;
+    margin-top: 5%;
+}
+#box4{
+    background-color: #FF0099;
+    width: 20%;
+    height: 15rem;
+    margin-top: 5%;
+}
+#box5{
+    background-color: #FF00CC;
+    width: 20%;
+    height: 15rem;
+    margin-top: 5%;
+}
+#box6{
+    background-color: #FF00FF;
+    width: 20%;
+    height: 15rem;
+    margin-top: 5%;
+    margin-bottom: 2rem;
+}
+footer{
+    align-items: center;
+    text-align: center !important;
+    background-color: cadetblue;
+    padding: 1rem;
+}
